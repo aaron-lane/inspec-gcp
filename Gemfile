@@ -5,7 +5,7 @@ gem 'google-api-client'
 gem 'google-cloud'
 gem 'googleauth'
 gem 'inifile'
-gem 'inspec', '~> 3.0', '>= 3.0.25'
+gem 'inspec', '>= 3.0.25', '< 5'
 gem 'rubocop'
 
 group :development do
